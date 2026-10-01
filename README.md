@@ -28,6 +28,10 @@ My personal portfolio website showcasing my projects, skills, experiments, and d
 
 🌐 https://rikerhoch.com/
 
+## 📊 Github Stats
+
+### My Languages
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riker-Hoch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
