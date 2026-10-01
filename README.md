@@ -12,6 +12,7 @@ I'm a web developer and creator of **Xyber Core**, a software development commun
 * ▶️ **YouTube:** https://www.youtube.com/@XyberCore
 * 🤖 **Hugging Face:** https://huggingface.co/XyberCore
 * 🎨 **CodePen:** https://codepen.io/Riker-Hoch
+* 🚀 **StackOverflow** https://stackoverflow.com/users/33175550/riker-hoch
 
 ## 💻 About Me
 
@@ -21,17 +22,13 @@ I use GitHub to document and showcase personal projects, university work, experi
 
 ## 🚀 Projects
 
-### Riker Hoch Portfolio
+### Riker Hoch Portfolio - in Progress
 
 My personal portfolio website showcasing my projects, skills, experiments, and development work.
 
 🌐 https://rikerhoch.com/
 
-### Xyber Core
 
-A software development community created by Riker Hoch.
-
-🔗 https://github.com/Xyber-Core
 
 ---
 
