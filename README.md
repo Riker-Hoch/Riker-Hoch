@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Riker Hoch
 
-<!--
-**Riker-Hoch/Riker-Hoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer & Programmer**
+🇳🇿 New Zealand
 
-Here are some ideas to get you started:
+I'm a web developer and creator of **Xyber Core**, a software development community focused on building software, exploring technology, and developing creative digital projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find Me Online
+
+* 🌐 **Portfolio:** https://rikerhoch.com/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rikerhoch/
+* ▶️ **YouTube:** https://www.youtube.com/@XyberCore
+* 🤖 **Hugging Face:** https://huggingface.co/XyberCore
+* 🎨 **CodePen:** https://codepen.io/Riker-Hoch
+
+## 💻 About Me
+
+I'm interested in **web development, software development, programming, and emerging technologies**.
+
+I use GitHub to document and showcase personal projects, university work, experiments, and other software-development projects.
+
+## 🚀 Projects
+
+### Riker Hoch Portfolio
+
+My personal portfolio website showcasing my projects, skills, experiments, and development work.
+
+🌐 https://rikerhoch.com/
+
+### Xyber Core
+
+A software development community created by Riker Hoch.
+
+🔗 https://github.com/Xyber-Core
+
+---
+
+> Building, learning, and experimenting with technology. 🚀
