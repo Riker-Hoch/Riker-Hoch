@@ -31,7 +31,9 @@ My personal portfolio website showcasing my projects, skills, experiments, and d
 
 ## 📊 Github Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riker-Hoch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  ![Riker-Hoch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riker-Hoch&theme=vue-dark&hide_border=true) ![Riker-Hoch's Stats](https://github-readme-stats.vercel.app/api?username=Riker-Hoch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riker-Hoch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
+![Riker-Hoch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riker-Hoch&theme=vue-dark&hide_border=true) 
+![Riker-Hoch's Stats](https://github-readme-stats.vercel.app/api?username=Riker-Hoch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
