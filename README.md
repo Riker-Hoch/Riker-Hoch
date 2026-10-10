@@ -8,7 +8,7 @@ I'm a web developer and creator of **Xyber Core**, a software development commun
 ## 🌐 Find Me Online
 
 * 🌐 **Portfolio:** https://rikerhoch.com/
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riker-hoch/)
 * 💼 **LinkedIn:** https://www.linkedin.com/in/rikerhoch/
 * ▶️ **YouTube:** https://www.youtube.com/@XyberCore
 * 🤖 **Hugging Face:** https://huggingface.co/XyberCore
