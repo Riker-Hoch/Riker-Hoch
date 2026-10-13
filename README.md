@@ -42,8 +42,9 @@ I enjoy building for the web, exploring software development, and experimenting 
 ### 🌍 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discorddotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### 🐍 Programming & Data
@@ -57,12 +58,22 @@ I enjoy building for the web, exploring software development, and experimenting 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-faad3f?style=flat-square&logo=cloudflarepages&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
+
 
 ### 📐 Concepts & Practices
 
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![SEO](https://img.shields.io/badge/Search_Engine_Optimisation-4285F4?style=flat-square&logo=google&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat-square&logo=accessibility&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-6B46C1?style=flat-square&logo=fastapi&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-555555?style=flat-square&logo=googlechrome&logoColor=white)
+![Web Performance](https://img.shields.io/badge/Web_Performance-0A84FF?style=flat-square&logo=pagespeedinsights&logoColor=white)
 
 ## 👨‍💻 About Me
 
