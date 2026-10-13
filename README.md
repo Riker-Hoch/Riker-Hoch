@@ -8,8 +8,6 @@ I enjoy building for the web, exploring software development, and experimenting 
 
 > 💡 *Build. Learn. Experiment. Improve.*
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -39,8 +37,6 @@ I enjoy building for the web, exploring software development, and experimenting 
   </a>
 </p>
 
----
-
 ## 🧰 Technology Stack
 
 ### 🌍 Web Development
@@ -68,8 +64,6 @@ I enjoy building for the web, exploring software development, and experimenting 
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![SEO](https://img.shields.io/badge/Search_Engine_Optimisation-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
-
 ## 👨‍💻 About Me
 
 - 🌐 Interested in creating responsive, user-friendly web experiences.
@@ -78,13 +72,11 @@ I enjoy building for the web, exploring software development, and experimenting 
 - 📚 Continuously building my technical knowledge and development skills.
 - ⚡ Working towards creating useful projects and growing **Xyber Core**.
 
----
-
 ## 🚀 Featured Project
 
 ### 🌌 Riker Hoch — Personal Portfolio
 
-**Status:** `In Progress`
+**Status:** `🟠 In Progress`
 
 My personal portfolio is being developed to showcase my projects, programming work, technical skills, experiments, and progress as a developer.
 
@@ -97,9 +89,9 @@ A software development community focused on software, technology, programming, a
 🔗 **[Explore Xyber Core on GitHub](https://github.com/Xyber-Core)**  
 ▶️ **[Visit the YouTube channel](https://www.youtube.com/@XyberCore)**
 
----
 
 ## 📊 GitHub Analytics
+
 
 <p align="center">
   <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=RikerHoch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
